@@ -1,0 +1,278 @@
+* {
+    margin: 0;
+    padding:0;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+}
+
+.background {
+    width: 100%;
+    height: 121.4vh;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(img/background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: black;
+
+}
+
+
+.logo {
+    position: absolute;
+    left: 12%;
+    top: 3%
+}
+
+.signin_button {
+    position: absolute;
+    left: 920px;
+    top: 4%;
+    background-color: red;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-bottom: 10px;
+    padding-top: 5px;
+    color: white;
+    border-radius: 5px;
+    height: 18px;
+    width: 55px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.language {
+    position: absolute;
+    left: 800px;
+    top: 4%;
+    background-color: black;
+    padding-right: 25px;
+    padding-left: 15px;
+    padding-bottom: 10px;
+    padding-top: 5px;
+    color: white;
+    border-radius: 5px;
+    border-width: 1px;
+    border-style:double;
+    height: 18px;
+    width: 55px;
+}
+
+.heading {
+    text-align: center;
+    font-size: x-large;
+    position: absolute;
+    left: 20%;
+    top: 45%;
+    text-shadow: 100pc;
+}
+
+.padding {
+    padding-top: 20px;
+}
+
+.padding1 {
+    padding-bottom: 15px;
+}
+
+.emailid {
+    height: 20%;
+    width: 50%;
+    background-color: black;
+    position: absolute;
+    left: 10%;
+    padding-top: 5px;
+    padding-left: 5px;
+    opacity: 40%;
+    color: white;
+    border-width: 2px;
+    border-radius: 5px;
+    border-style: solid ;
+    padding-bottom: 10px;
+
+}
+
+#email {
+    height: 20%;
+    width: 60%;
+    outline: none;
+    border: none;
+    background-color: black;
+    color: white;
+    text-shadow: 2px;
+    padding-bottom: 10px;
+    padding-top: 5px;
+    font-size: 18px;
+}
+
+.submit {
+    background-color: red;
+    height: 20px;
+    width: 25%;
+    position: absolute;
+    left: 62%;
+    text-align: center;
+    align-items: center;
+    padding-top: 15px;
+    padding-bottom: 20px;
+    border-radius: 5px;
+
+}
+
+.bar1 {
+    height: 8px;
+    width: 100%;
+    background-color: grey;
+    position: absolute;
+    top: 44.4em;
+    opacity: 30%;
+}
+
+.bar2 {
+    height: 8px;
+    width: 100%;
+    background-color: grey;
+    position: absolute;
+    top: 72.4em;
+    opacity: 30%;
+}
+
+.bar3 {
+    height: 8px;
+    width: 100%;
+    background-color: grey;
+    position: absolute;
+    top: 100em;
+    opacity: 30%;
+}
+
+.bar3 {
+    height: 8px;
+    width: 100%;
+    background-color: grey;
+    position: absolute;
+    top: 100em;
+    opacity: 30%;
+}
+.bar3 {
+    height: 8px;
+    width: 100%;
+    background-color: grey;
+    position: absolute;
+    top: 100em;
+    opacity: 30%; 
+}
+
+.bar4 {
+    height: 8px;
+    width: 100%;
+    background-color: grey;
+    position: absolute;
+    top: 160em;
+    opacity: 30%;
+}
+
+.bar5 {
+    height: 8px;
+    width: 100%;
+    background-color: grey;
+    position: absolute;
+    top: 134em;
+    opacity: 30%;
+}
+
+.tv {
+    position: absolute;
+    top: 140%;
+    left: 20%;
+    background-color: black;
+    height: 100%;
+    width: 70%;
+    font-size:22px ;
+}
+
+.tvimg1 {
+    position: absolute;
+    top: -5%;
+    left: 50%
+}
+
+.video1 {
+    position: absolute;
+    left: 50%;
+    top: -5%;
+}
+
+.download {
+    position: absolute;
+    top: 75.4em;
+    left: 15%;
+    height: 100%;
+    width: 70%;
+
+}
+
+.download_img {
+    position: absolute;
+    top: 35%;
+    left: 10%;
+    border-width: 2px;
+    border-style: solid;
+    height: 100px;
+    width: 225px;
+    border-radius: 10px;
+    background-color: black;
+    border-color: grey;
+}
+
+.img {
+    position: absolute;
+    left: 10px;
+    top: 10px;
+}
+
+.dow_text {
+    position: relative;
+    left: 70px;
+    top: 10px;
+}
+
+.dow_gif {
+    position: absolute;
+    left: 175px;
+    top: 10px;
+}
+
+.heading2 {
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    font-size: 22px;
+}
+
+.tv2 {
+    position: absolute;
+    top: 300%;
+    left: 15%;
+    background-color: black;
+    height: 100%;
+    width: 70%;
+    font-size:22px ;
+}
+
+.tvimg2 {
+    position: absolute;
+    top: -10%;
+    left: 39%
+}
+
+.children {
+    position: absolute;
+    top: 375%;;
+    left: 15%;
+    height: 100%;
+    width: 70%;
+
+}
+
